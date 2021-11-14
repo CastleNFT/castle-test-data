@@ -1,6 +1,5 @@
 // Puzzles metadata on IPFS
-https://bafybeibigzpasy5bx2hnzeqzoanscaaspjz6kgswpmzs6s2bcpvaa4y2mq.ipfs.dweb.link/
-
+https://bafybeig6uooatcmiybvu3csyl256afk3mqsphepxafi4b66ilzm3qtnhdu.ipfs.dweb.link/
 
 // Pieces metadata on IPFS
 
@@ -29,8 +28,7 @@ Puzzles:
 3 = Bronze Puzzle
 4 = Iron Puzzle
 
-https://bafybeibigzpasy5bx2hnzeqzoanscaaspjz6kgswpmzs6s2bcpvaa4y2mq.ipfs.dweb.link/{id}.json
-
+https://bafybeig6uooatcmiybvu3csyl256afk3mqsphepxafi4b66ilzm3qtnhdu.ipfs.dweb.link/{id}.json
 
 example for a gold piece in the top left corner: https://bafybeianv56sdv2ajdopcdvi5f6hrt65rww6oryg3olrmec5bwb6zlsdpi.ipfs.dweb.link/1.json
 
