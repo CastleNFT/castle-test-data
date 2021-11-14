@@ -1,0 +1,18 @@
+{
+  "attributes":[
+  {
+    "trait_type":"rarity",
+    "value":"iron"}
+    ],
+
+"name":"Iron Piece",
+
+"id":98,
+
+"description":"An Iron Piece from the Castle collection.",
+
+"external_url":"https://castlenft.io/",
+
+"image":"https://bafybeiftpf4q3onp4peednbv723vrigbpfmooil6dm5to4imqedc7537pi.ipfs.dweb.link/98.png"
+  
+}
