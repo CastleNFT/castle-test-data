@@ -1,5 +1,5 @@
 // Puzzles metadata on Github
-https://bafybeiela6wtg3ga7kn3aznqomjzvfbxi36hd2ral4gc3zga2o3kcipigu.ipfs.dweb.link/
+https://raw.githubusercontent.com/CastleNFT/castle-test-data/main/metadata/puzzles/
 
 // Pieces metadata on Github
 
@@ -26,7 +26,7 @@ Puzzles:
 3 = Bronze Puzzle
 4 = Iron Puzzle
 
-https://bafybeiela6wtg3ga7kn3aznqomjzvfbxi36hd2ral4gc3zga2o3kcipigu.ipfs.dweb.link/{id}.json
+https://raw.githubusercontent.com/CastleNFT/castle-test-data/main/metadata/puzzles/{id}.json
 
 example for a gold piece in the top left corner: https://raw.githubusercontent.com/CastleNFT/castle-test-data/main/metadata/pieces/0000000000000000000000000000000000000000000000000000000000000001.json
 
