@@ -1,9 +1,9 @@
-// Puzzles metadata on IPFS
+// Puzzles metadata on Github
 https://bafybeiela6wtg3ga7kn3aznqomjzvfbxi36hd2ral4gc3zga2o3kcipigu.ipfs.dweb.link/
 
-// Pieces metadata on IPFS
+// Pieces metadata on Github
 
-https://bafybeianv56sdv2ajdopcdvi5f6hrt65rww6oryg3olrmec5bwb6zlsdpi.ipfs.dweb.link/
+https://raw.githubusercontent.com/CastleNFT/castle-test-data/main/metadata/pieces/
 
 // Images on IPFS
 https://bafybeibtcrmsuja75hqiz3doudjwmqjdlqj4sw7mox5dttdyalleggnaca.ipfs.dweb.link/
@@ -17,8 +17,7 @@ Pieces:
 51-75 = Bronze Pieces
 76-100 = Iron Pieces
 
-https://bafybeianv56sdv2ajdopcdvi5f6hrt65rww6oryg3olrmec5bwb6zlsdpi.ipfs.dweb.link/{id}.json
-
+https://raw.githubusercontent.com/CastleNFT/castle-test-data/main/metadata/pieces/000000000000000000000000000000000000000000000000000000000000000{id}.json
 
 Puzzles: 
 
@@ -29,7 +28,7 @@ Puzzles:
 
 https://bafybeiela6wtg3ga7kn3aznqomjzvfbxi36hd2ral4gc3zga2o3kcipigu.ipfs.dweb.link/{id}.json
 
-example for a gold piece in the top left corner: https://bafybeianv56sdv2ajdopcdvi5f6hrt65rww6oryg3olrmec5bwb6zlsdpi.ipfs.dweb.link/1.json
+example for a gold piece in the top left corner: https://raw.githubusercontent.com/CastleNFT/castle-test-data/main/metadata/pieces/0000000000000000000000000000000000000000000000000000000000000001.json
 
 
 1  2  3  4  5
