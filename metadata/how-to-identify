@@ -1,5 +1,8 @@
-// Full metadata on IPFS
-https://bafybeib7pvbypdw5lkd2pyvtoa56c7kw7zs5f5kotu3epnqvtenxdyzmmy.ipfs.dweb.link/
+// Puzzles metadata on IPFS
+https://bafybeianv56sdv2ajdopcdvi5f6hrt65rww6oryg3olrmec5bwb6zlsdpi.ipfs.dweb.link/
+
+// Pieces metadata on IPFS
+https://bafybeibigzpasy5bx2hnzeqzoanscaaspjz6kgswpmzs6s2bcpvaa4y2mq.ipfs.dweb.link/
 
 // Images on IPFS
 https://bafybeiftpf4q3onp4peednbv723vrigbpfmooil6dm5to4imqedc7537pi.ipfs.dweb.link/
@@ -7,19 +10,28 @@ https://bafybeiftpf4q3onp4peednbv723vrigbpfmooil6dm5to4imqedc7537pi.ipfs.dweb.li
 
 Identification:
 
+Pieces:
 
 1-25 = Gold Pieces
 26-50 = Silver Pieces
 51-75 = Bronze Pieces
 76-100 = Iron Pieces
-101 = Gold Puzzle
-102 = Silver Puzzle
-103 = Bronze Puzzle
-104 = Iron Puzzle
 
-https://bafybeib7pvbypdw5lkd2pyvtoa56c7kw7zs5f5kotu3epnqvtenxdyzmmy.ipfs.dweb.link/{id}.json
+https://bafybeianv56sdv2ajdopcdvi5f6hrt65rww6oryg3olrmec5bwb6zlsdpi.ipfs.dweb.link/{id}.json
 
-example for a gold piece in the top right corner: https://bafybeib7pvbypdw5lkd2pyvtoa56c7kw7zs5f5kotu3epnqvtenxdyzmmy.ipfs.dweb.link/1.json
+
+Puzzles: 
+
+1 = Gold Puzzle
+2 = Silver Puzzle
+3 = Bronze Puzzle
+4 = Iron Puzzle
+
+https://bafybeibigzpasy5bx2hnzeqzoanscaaspjz6kgswpmzs6s2bcpvaa4y2mq.ipfs.dweb.link/{id}.json
+
+
+example for a gold piece in the top right corner: https://bafybeianv56sdv2ajdopcdvi5f6hrt65rww6oryg3olrmec5bwb6zlsdpi.ipfs.dweb.link/1.json
+
 
 1  2  3  4  5
 6  7  8  9  10
