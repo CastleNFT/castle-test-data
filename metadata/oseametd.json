@@ -1,0 +1,8 @@
+{
+    "name": "Test Collection Le Castle",
+    "description": "This is a test for pieces and puzzles.",
+    "image": "https://raw.githubusercontent.com/CastleNFT/castle-test-data/main/images/Caslte_discord_icon_03.gif",
+    "external_link": "https://castlenft.io/",
+    "seller_fee_basis_points": 1000,
+    "fee_recipient": "0x390535604b540BdA8765c815A76d8e7be92A3295"
+}
